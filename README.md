@@ -1,1 +1,1 @@
-# C-Users-DELL-Desktop-DEVOPS_TRAINING-Damilare_workspace-MEAN_STACK_DEPLOYMENT_TO-_UBUNTU
+# MEAN stack is a set of JavaScript-based technologies used for building full-stack web applications. MEAN stands for MongoDB, Express.js, Angular, and Node.js. Each component of the MEAN stack plays a specific role in the development process, allowing developers to create robust, scalable, and fast applications.
