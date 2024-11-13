@@ -24,6 +24,10 @@ MEAN Stack is a combination of following components:
 
 - **Step 0:** Preparing Prerequisite. Creating an AWS account and a virtual server with Ubuntu Server OS.
 - **Step 1:** Install Node.js
+- **Step 2:** Install MongoDB
+- **Step 3:** Install Express and set up routes to the server
+- **Step 4:** Access the routes with AngularJS
+
 
 ## Step 0: Preparing Prerequisite.
 
@@ -67,7 +71,7 @@ author, and number of pages.
 
 This command _curl -fsSL https://www.mongodb.org/static/pgp/server-7.0.asc | sudo gpg --dearmor -o /usr/share/keyrings/mongodb-server-7.0.gpg_ downloads MongoDB’s public GPG key, which is used to verify the authenticity of the MongoDB packages before they are installed
 
-## Verify the key is downloaded
+**Verify the key is downloaded**
 
 To verify that the key was downloaded and saved correctly, you can use the following command
 
